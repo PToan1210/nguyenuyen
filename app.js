@@ -1,5 +1,5 @@
-const yourDate = new Date("2024-9-11T00:00:00"),
-music = ['music1','music2','music1','music2','music3'];
+const yourDate = new Date("2024-10-11T00:00:00"),
+music = ['music1','music2','music1','music2'];
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
